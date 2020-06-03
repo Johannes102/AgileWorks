@@ -1,0 +1,58 @@
+﻿@page
+@model TestWork.Pages.Tasks.IndexModel
+
+@{
+    ViewData["Title"] = "Tasks";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TaskData[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TaskData[0].ValidTo)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.TaskData) {
+        <tr>
+            @if (item.ValidTo.Subtract(DateTime.Now) > TimeSpan.FromHours(1) && item.Completed.Equals(false))
+            {
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValidTo)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            }
+            @if (item.ValidTo.Subtract(DateTime.Now) <= TimeSpan.FromHours(1) && item.Completed.Equals(false))
+            {
+                <td class="alert alert-danger" role="alert">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td class="alert alert-danger" role="alert">
+                    @Html.DisplayFor(modelItem => item.ValidTo)
+                </td>
+                <td class="alert alert-danger" role="alert">
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            }
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Infra.deps.json
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Infra.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Infra.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Data.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Data.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\AgileWorks.Infra.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\AgileWorks.Infra.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Infra.runtimeconfig.json
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\bin\Debug\netcoreapp3.1\AgileWorks.Infra.runtimeconfig.dev.json
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\Infra.genruntimeconfig.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache

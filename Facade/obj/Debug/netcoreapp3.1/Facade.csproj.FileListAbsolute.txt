@@ -1,0 +1,17 @@
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Facade.deps.json
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Facade.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Facade.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Data.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Domain.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Domain.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Data.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CopyComplete
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\AgileWorks.Facade.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\AgileWorks.Facade.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Facade.runtimeconfig.json
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\bin\Debug\netcoreapp3.1\AgileWorks.Facade.runtimeconfig.dev.json
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache

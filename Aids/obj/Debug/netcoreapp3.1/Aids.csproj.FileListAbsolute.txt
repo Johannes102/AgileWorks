@@ -1,0 +1,9 @@
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\bin\Debug\netcoreapp3.1\AgileWorks.Aids.deps.json
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\bin\Debug\netcoreapp3.1\AgileWorks.Aids.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\bin\Debug\netcoreapp3.1\AgileWorks.Aids.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\obj\Debug\netcoreapp3.1\Aids.csprojAssemblyReference.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\obj\Debug\netcoreapp3.1\Aids.csproj.CoreCompileInputs.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\obj\Debug\netcoreapp3.1\Aids.AssemblyInfoInputs.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\obj\Debug\netcoreapp3.1\Aids.AssemblyInfo.cs
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\obj\Debug\netcoreapp3.1\AgileWorks.Aids.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Aids\obj\Debug\netcoreapp3.1\AgileWorks.Aids.pdb

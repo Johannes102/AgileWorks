@@ -1,0 +1,43 @@
+﻿@page
+@model TestWork.Pages.Tasks.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TaskData</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TaskData.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TaskData.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TaskData.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TaskData.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TaskData.ValidFrom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TaskData.ValidFrom)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TaskData.ValidTo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TaskData.ValidTo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.TaskData.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Domain.deps.json
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Domain.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Domain.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Data.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Data.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\AgileWorks.Domain.dll
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\AgileWorks.Domain.pdb
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Domain.runtimeconfig.json
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\bin\Debug\netcoreapp3.1\AgileWorks.Domain.runtimeconfig.dev.json
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\LocalUser\source\repos\AgileWorks\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
